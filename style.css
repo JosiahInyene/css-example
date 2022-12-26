@@ -1,0 +1,27 @@
+body{
+    background-color: #222;
+    }
+h1 {
+    background-color: rebeccapurple;
+    color: #fff;
+    font-size: 50px;
+    }
+p {
+    background-color: darkslategray;
+    color: whitesmoke;
+   font-size: 50px;
+    }
+span {
+    color: tomato;
+    }
+.is-red {
+    background-color: pink ;
+    }
+  #bg-green {
+    background-color: mediumseagreen;
+  }
+  table {
+    color: whitesmoke;
+    font-size: 25px;
+    width: 100%
+  }
